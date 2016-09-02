@@ -19,4 +19,17 @@ An eye-opening take on considerations for a simple and accessible design and how
 ## Resources
 * [The GDS Accessibility community](https://www.gov.uk/service-manual/communities/accessibility-community)
 * [The Paciello Group Blog](https://www.paciellogroup.com/blog/)
+* [W3C/WAI - Web Accessibility Initiative](https://www.w3.org/standards/webdesign/accessibility)
+* [Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
 * [WAI-ARIA on Mozilla Developer Network](https://developer.mozilla.org/docs/Web/Accessibility/ARIA)
+* [My Web My Way from the BBC](http://www.bbc.co.uk/accessibility/)
+
+## Accessibility features of operating systems (OS) and browsers
+* OS
+  * [Accessibility in OSX](http://www.apple.com/uk/accessibility/osx/)
+  * [Accessibility in Windows](https://www.microsoft.com/enable/products/windows7/)
+  * [Accessibility in Ubuntu](https://help.ubuntu.com/community/Accessibility)
+* Browsers
+  * [Accessibility in Firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Accessibility/Accessibility_Features_in_Firefox)
+  * [Accessibility in Chrome(ium)](https://www.chromium.org/developers/design-documents/accessibility)
+  * [Accessibility in Internet Explorer](https://www.microsoft.com/enable/products/ie11/)

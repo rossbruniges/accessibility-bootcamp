@@ -38,8 +38,6 @@ What things impair peoples use of the internet?
   * puts you into the mind of the users of the site
   * makes you stop thinking quite so much as a developer
 * Legal obligation
-  * WCAG 2.0
-    * explain the evolution of 2.0 from 1.0
   * digitial accessibility now part of the UK Equality Act 2010
   * target web accessibility case - settled for $6m dollars
 * Profit
@@ -64,12 +62,13 @@ How does it fit within our four I's?
 
 Follow on from the examples above.
 
-Introduce the notion of AT (Assitive Technology)
-
-* sits on-top of a browser and provides additional functionality
 * browser/OS extensions
 * custom stylesheets
 * using the web without a mouse
+
+Introduce the notion of AT (Assitive Technology)
+
+* sits on-top of a browser and provides additional functionality
 
 ### Interactive Activity(ies)
 
@@ -105,6 +104,13 @@ Introduce the notion of AT (Assitive Technology)
 
 What is the best way to discover if a website is inaccessible or not?
 
+* WCAG 2.0
+  * Princibles on Web Accessibility that remain constant:
+    * Perceivable
+    * Operable
+    * Understandable
+    * Robust
+  * explain the evolution of 2.0 from 1.0
 * testing tools
   * tenon
   * browser extensions
