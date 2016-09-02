@@ -42,6 +42,8 @@ What things impair peoples use of the internet?
     * explain the evolution of 2.0 from 1.0
   * digitial accessibility now part of the UK Equality Act 2010
   * target web accessibility case - settled for $6m dollars
+* Profit
+  * By making a site accessible you increase it's audience to more people. More audience, more money
 
 ### Interactive Activity
 
@@ -58,15 +60,16 @@ How does it fit within our four I's?
 
 ## How accessibility?
 
-What is the best way to discover if a website is inaccessible or not?
+### How do people with a disability use the internet?
 
-* testing tools
-  * tenon
-  * browser extensions
-  * OS screen readers
-* web accessibility !== a tick box exercise
-* user sessions with real users
-* audits from accessibility experts
+Follow on from the examples above.
+
+Introduce the notion of AT (Assitive Technology)
+
+* sits on-top of a browser and provides additional functionality
+* browser/OS extensions
+* custom stylesheets
+* using the web without a mouse
 
 ### Interactive Activity(ies)
 
@@ -96,9 +99,27 @@ What is the best way to discover if a website is inaccessible or not?
   * downloading of assets
   * is it easy to read things (custom font lols)
 
+## Doing accessibility
+
+### Testing accessibility
+
+What is the best way to discover if a website is inaccessible or not?
+
+* testing tools
+  * tenon
+  * browser extensions
+  * OS screen readers
+* web accessibility !== a tick box exercise
+* user sessions with real users
+* audits from accessibility experts
+
 ### How can I make the web accessible?
 
 * use simple and native HTML where-ever possible
+* stick to existing behaviour and usage standards
+  * links all being the same colour
+  * form elements acting like form elements
+  * browser functionality
 * wai-aria
   * but remember the first rule of aria is see if you can't just use HTML
 * CSS
