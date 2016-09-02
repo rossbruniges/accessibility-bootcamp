@@ -100,16 +100,30 @@ Introduce the notion of AT (Assitive Technology)
 
 ## Doing accessibility
 
+### How can I make the web accessible?
+
+* use simple and native HTML where-ever possible
+* stick to existing behaviour and usage standards
+  * links all being the same colour
+  * form elements acting like form elements
+  * browser functionality
+* CSS
+  * :focus styles
+  * accesible hiding techniques
+* focusing on content (CSS and JS)
+* wai-aria
+  * but remember the first rule of aria is see if you can't just use HTML
+
 ### Testing accessibility
 
 What is the best way to discover if a website is inaccessible or not?
 
 * WCAG 2.0
   * Princibles on Web Accessibility that remain constant:
-    * Perceivable
-    * Operable
-    * Understandable
-    * Robust
+        * Perceivable
+        * Operable
+        * Understandable
+        * Robust
   * explain the evolution of 2.0 from 1.0
 * testing tools
   * tenon
@@ -118,20 +132,6 @@ What is the best way to discover if a website is inaccessible or not?
 * web accessibility !== a tick box exercise
 * user sessions with real users
 * audits from accessibility experts
-
-### How can I make the web accessible?
-
-* use simple and native HTML where-ever possible
-* stick to existing behaviour and usage standards
-  * links all being the same colour
-  * form elements acting like form elements
-  * browser functionality
-* wai-aria
-  * but remember the first rule of aria is see if you can't just use HTML
-* CSS
-  * :focus styles
-  * accesible hiding techniques
-* focusing on content (CSS and JS)
 
 ## Who accessibility?
 
